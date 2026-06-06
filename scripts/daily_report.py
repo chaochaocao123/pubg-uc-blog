@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from typing import Dict, List
 
 # ==================== 配置 ====================
-GA4_PROPERTY_ID = "替换为您的GA4属性ID"  # 形如 123456789
+GA4_PROPERTY_ID = "540383612"  # PUBG UC博客媒体资源ID
 GA4_CREDENTIALS_FILE = os.path.join(os.path.dirname(__file__), "ga4-credentials.json")
 EMAIL_RECIPIENT = "1324723217@qq.com"
 SITE_URL = "https://pubg-uc-blog.netlify.app/"
