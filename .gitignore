@@ -25,3 +25,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.swp
+
+# GA4 Service Account credentials（不要提交到Git）
+scripts/ga4-credentials.json
