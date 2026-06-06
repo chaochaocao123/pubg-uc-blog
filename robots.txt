@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pubg-uc-blog.netlify.app/sitemap.xml

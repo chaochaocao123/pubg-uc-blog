@@ -1,0 +1,181 @@
+{
+  "articles": [
+    {
+      "id": 16,
+      "title": "PUBG UC充值06月06日问答汇总",
+      "excerpt": "汇总玩家最关心的UC充值问题，包括充值安全、到账时间、优惠活动等详细内容，助你安心充值。",
+      "url": "articles/uc-recharge-2026-06-06-2.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-06",
+      "views": 0,
+      "keywords": "UC充值问答, PUBG充值FAQ, UC充值安全, PUBG充值问题"
+    },
+    {
+      "id": 15,
+      "title": "PUBG 06月06日新皮肤预告抢先看",
+      "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
+      "url": "articles/pubg-news-2026-06-06-1.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-06",
+      "views": 0,
+      "keywords": "PUBG皮肤, 新皮肤预告, 游戏资讯"
+    },
+    {
+      "id": 14,
+      "title": "PUBG 06月05日节日活动汇总",
+      "excerpt": "汇总近期各类节日活动内容，包括活动入口、奖励一览、参与方式等，让你不错过任何精彩活动。",
+      "url": "articles/pubg-events-2026-06-05-2.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-05",
+      "views": 0,
+      "keywords": "PUBG节日活动, 活动汇总, 游戏活动"
+    },
+    {
+      "id": 13,
+      "title": "PUBG 06月05日卡点技巧与点位推荐",
+      "excerpt": "分享各个地图的卡点技巧和优势点位，教你如何在战斗中占据有利地形，提高生存率。",
+      "url": "articles/pubg-tips-2026-06-05-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-05",
+      "views": 0,
+      "keywords": "PUBG卡点, 吃鸡点位, 地图攻略, 卡点技巧"
+    },
+    {
+      "id": 12,
+      "title": "PUBG 06月05日新皮肤预告抢先看",
+      "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
+      "url": "articles/pubg-news-2026-06-05-2.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-05",
+      "views": 0,
+      "keywords": "PUBG皮肤, 新皮肤预告, 游戏资讯"
+    },
+    {
+      "id": 11,
+      "title": "PUBG 06月05日枪械配件搭配指南",
+      "excerpt": "详细讲解各种枪械的最佳配件搭配方案，助你找到最适合自己的武器配置，大幅提升战斗力。",
+      "url": "articles/pubg-tips-2026-06-05-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-05",
+      "views": 0,
+      "keywords": "PUBG配件, 枪械改装, 武器配件, 吃鸡攻略"
+    },
+    {
+      "id": 1,
+      "title": "PUBG UC充值详细图文教程 - 新手必看",
+      "excerpt": "详细介绍如何在游戏内安全充值UC，包含多种充值方式和优惠技巧，帮助新手玩家快速完成充值。",
+      "url": "articles/uc-recharge-guide.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-04",
+      "views": 1256,
+      "keywords": "PUBG UC充值教程, 绝地求生充值, UC充值步骤"
+    },
+    {
+      "id": 2,
+      "title": "PUBG灵敏度设置教学 - 职业选手推荐设置",
+      "excerpt": "分享多位职业选手的灵敏度设置，包含手机端和PC端的详细参数，助你找到最适合自己的灵敏度。",
+      "url": "articles/pubg-sensitivity-settings.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-04",
+      "views": 2341,
+      "keywords": "PUBG灵敏度设置, 吃鸡灵敏度, 职业选手灵敏度"
+    },
+    {
+      "id": 3,
+      "title": "PUBG 32.2版本更新公告 - 新武器新皮肤",
+      "excerpt": "32.2版本重磅更新，新增QBZ冲锋枪专属皮肤、艾伦格地图优化、载具体验升级等精彩内容。",
+      "url": "articles/pubg-update-news.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-04",
+      "views": 1892,
+      "keywords": "PUBG更新公告, 绝地求生版本更新, PUBG 32.2"
+    },
+    {
+      "id": 4,
+      "title": "PUBG武器选择指南 - 新手必学的枪械知识",
+      "excerpt": "全面解析游戏中各类武器的特点和适用场景，帮助新手选择适合自己的主武器和副武器搭配。",
+      "url": "articles/pubg-weapon-guide.html",
+      "category": "tips",
+      "icon": "🔫",
+      "date": "2026-06-03",
+      "views": 1567,
+      "keywords": "PUBG武器推荐, 吃鸡枪械选择, 绝地求生武器攻略"
+    },
+    {
+      "id": 5,
+      "title": "2026 PUBG全球邀请赛赛程公布 - 奖金翻倍",
+      "excerpt": "PGI.S 2026全球邀请赛即将开赛，总奖金池高达800万美元，32支顶尖战队角逐冠军荣耀。",
+      "url": "articles/pubg-world-cup-2026.html",
+      "category": "news",
+      "icon": "🏆",
+      "date": "2026-06-03",
+      "views": 2134,
+      "keywords": "PUBG世界赛, PGI.S 2026, PUBG赛事"
+    },
+    {
+      "id": 6,
+      "title": "UC充值优惠技巧 - 教你如何省钱充值",
+      "excerpt": "分享多种UC充值优惠方法，包括活动期间充值、特定时段优惠等实用技巧，让你花最少的钱充更多的UC。",
+      "url": "articles/uc-discount-tips.html",
+      "category": "recharge",
+      "icon": "💎",
+      "date": "2026-06-03",
+      "views": 1876,
+      "keywords": "UC充值优惠, PUBG充值省钱, UC打折"
+    },
+    {
+      "id": 7,
+      "title": "PUBG地图打法攻略 - 热门落点分析",
+      "excerpt": "详细分析各大地图的热门落点和开局策略，教你如何在不同的地图选择最佳降落位置。",
+      "url": "articles/pubg-map-strategy.html",
+      "category": "tips",
+      "icon": "🗺",
+      "date": "2026-06-02",
+      "views": 1432,
+      "keywords": "PUBG地图攻略, 艾伦格落点, 吃鸡跳伞位置"
+    },
+    {
+      "id": 8,
+      "title": "排位赛第15赛季即将开启 - 冲分技巧分享",
+      "excerpt": "排位赛第15赛季即将开启，分享高效冲分技巧和上分注意事项，助你快速达到理想段位。",
+      "url": "articles/pubg-ranked-season-15.html",
+      "category": "events",
+      "icon": "🎖",
+      "date": "2026-06-02",
+      "views": 1654,
+      "keywords": "PUBG排位赛, 绝地求生上分, 段位技巧"
+    },
+    {
+      "id": 9,
+      "title": "PUBG手游国际服下载注册详细教程",
+      "excerpt": "手把手教你下载注册PUBG Mobile国际服，解决各种下载和登录问题，畅玩全球服。",
+      "url": "articles/pubg-mobile-download.html",
+      "category": "tips",
+      "icon": "📱",
+      "date": "2026-06-01",
+      "views": 3421,
+      "keywords": "PUBG国际服下载, PUBG手游注册, 国际服下载教程"
+    },
+    {
+      "id": 10,
+      "title": "618 UC充值限时活动 - 充100送30",
+      "excerpt": "618年中大促期间，UC充值限时优惠活动火热进行中，充值100得130，错过等一年！",
+      "url": "articles/uc-618-promotion.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-01",
+      "views": 2567,
+      "keywords": "UC充值活动, 618优惠, PUBG充值活动"
+    }
+  ],
+  "lastUpdated": "2026-06-06"
+}

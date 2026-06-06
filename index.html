@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="PUBG UC充值中心 - 专业的绝地求生UC充值平台，提供安全快速的游戏充值服务。同时分享PUBG游戏技巧、赛事资讯、版本攻略，助你成为战场王者！">
+  <meta name="keywords" content="PUBG UC充值, 绝地求生充值, PUBG攻略, 吃鸡技巧, PUBG资讯, UC充值优惠">
+  <meta name="author" content="PUBG UC攻略">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="PUBG UC攻略 - 充值中心 & 游戏技巧">
+  <meta property="og:description" content="专业PUBG UC充值平台，安全快速到账。同时提供游戏攻略、赛事资讯、版本解析，助你轻松上分！">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PUBG UC攻略">
+  
+  <!-- Canonical -->
+  <link rel="canonical" href="https://pubg-uc-blog.netlify.app/">
+  
+  <title>PUBG UC攻略 - UC充值中心 | 绝地求生游戏技巧 | 吃鸡资讯</title>
+  
+  <link rel="stylesheet" href="css/style.css">
+  
+  <!-- JSON-LD 结构化数据 -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "PUBG UC攻略",
+    "url": "https://pubg-uc-blog.netlify.app/",
+    "description": "专业PUBG UC充值平台与游戏攻略网站",
+    "publisher": {
+      "@type": "Organization",
+      "name": "PUBG UC攻略"
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- 导航栏 -->
+  <header class="header">
+    <nav class="nav">
+      <a href="index.html" class="logo">🎮 PUBG UC攻略</a>
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="菜单">☰</button>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">首页</a></li>
+        <li><a href="#articles">攻略文章</a></li>
+        <li><a href="#news">游戏资讯</a></li>
+        <li><a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener" class="nav-cta">UC充值</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero 区域 -->
+  <section class="hero">
+    <div class="hero-content container">
+      <h1>PUBG UC攻略 & 充值中心</h1>
+      <p>专业的绝地求生UC充值服务，海量游戏攻略、赛事资讯、版本解析，助你轻松上分，畅享吃鸡乐趣</p>
+      <a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener" class="hero-cta">
+        🔥 立即充值UC
+      </a>
+      <div class="hero-stats">
+        <div class="stat-item">
+          <div class="stat-number" id="articleCount">0</div>
+          <div class="stat-label">精品攻略</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" id="categoryCount">4</div>
+          <div class="stat-label">内容分类</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">每日</div>
+          <div class="stat-label">持续更新</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 主内容区域 -->
+  <main class="container">
+    <div class="main-layout">
+      <!-- 文章列表 -->
+      <section class="content-area">
+        <!-- 充值悬浮条 -->
+        <div class="recharge-banner">
+          <span>🎁 UC充值限时优惠，安全快速到账</span>
+          <a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener">立即充值 →</a>
+        </div>
+
+        <!-- 筛选标签 -->
+        <div class="filter-section">
+          <h2 class="section-title" id="articles">📚 攻略文章</h2>
+          <div class="filter-tabs" id="filterTabs">
+            <button class="filter-tab active" data-category="all">全部</button>
+            <button class="filter-tab" data-category="recharge">充值教程</button>
+            <button class="filter-tab" data-category="tips">游戏技巧</button>
+            <button class="filter-tab" data-category="news">游戏资讯</button>
+            <button class="filter-tab" data-category="events">活动攻略</button>
+          </div>
+        </div>
+
+        <!-- 文章网格 -->
+        <div class="articles-grid" id="articlesGrid">
+          <div class="loading">加载中</div>
+        </div>
+      </section>
+
+      <!-- 侧边栏 -->
+      <aside class="sidebar">
+        <!-- CTA 充值入口 -->
+        <div class="sidebar-widget">
+          <div class="cta-box recharge-cta">
+            <h3>🔥 UC充值特惠</h3>
+            <p>官方授权 · 秒充到账 · 安全无忧</p>
+            <a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener" class="cta-btn recharge-btn" data-position="sidebar">
+              立即充值UC →
+            </a>
+          </div>
+        </div>
+
+        <!-- 分类导航 -->
+        <div class="sidebar-widget">
+          <h3 class="widget-title">📂 内容分类</h3>
+          <ul class="category-nav">
+            <li>
+              <a href="#" data-category="recharge">
+                <span>💰 充值教程</span>
+                <span class="category-count" id="rechargeCount">0</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" data-category="tips">
+                <span>🎯 游戏技巧</span>
+                <span class="category-count" id="tipsCount">0</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" data-category="news">
+                <span>📰 游戏资讯</span>
+                <span class="category-count" id="newsCount">0</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" data-category="events">
+                <span>🎁 活动攻略</span>
+                <span class="category-count" id="eventsCount">0</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- 热门文章 -->
+        <div class="sidebar-widget">
+          <h3 class="widget-title">🔥 热门文章</h3>
+          <ul class="popular-list" id="popularList">
+            <!-- JS 动态渲染 -->
+          </ul>
+        </div>
+
+        <!-- 最新资讯 -->
+        <div class="sidebar-widget">
+          <h3 class="widget-title">📢 最新资讯</h3>
+          <ul class="news-list" id="newsList">
+            <li><a href="articles/pubg-update-news.html">PUBG 32.2版本更新公告</a></li>
+            <li><a href="articles/pubg-world-cup-2026.html">2026 PUBG全球邀请赛赛程公布</a></li>
+            <li><a href="articles/pubg-ranked-season-15.html">排位赛第15赛季即将开启</a></li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h4>关于本站</h4>
+          <p style="color: rgba(255,255,255,0.7); font-size: 0.95rem;">
+            PUBG UC攻略专注于为玩家提供UC充值服务与游戏攻略，帮助玩家快速提升游戏体验。
+          </p>
+        </div>
+        <div class="footer-section">
+          <h4>充值服务</h4>
+          <ul>
+            <li><a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener">UC充值入口</a></li>
+            <li><a href="articles/uc-recharge-guide.html">充值图文教程</a></li>
+            <li><a href="articles/uc-discount-tips.html">充值优惠技巧</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>游戏攻略</h4>
+          <ul>
+            <li><a href="articles/pubg-sensitivity-settings.html">灵敏度设置教学</a></li>
+            <li><a href="articles/pubg-weapon-guide.html">武器选择指南</a></li>
+            <li><a href="articles/pubg-map-strategy.html">地图打法攻略</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>快捷链接</h4>
+          <ul>
+            <li><a href="https://www.z2u.com/r/anhao" target="_blank" rel="noopener">UC充值</a></li>
+            <li><a href="#news">游戏资讯</a></li>
+            <li><a href="#articles">攻略文章</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 PUBG UC攻略 All Rights Reserved | 仅供学习交流使用</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/analytics.js"></script>
+</body>
+</html>

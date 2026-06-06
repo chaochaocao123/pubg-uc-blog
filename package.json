@@ -1,0 +1,15 @@
+{
+  "name": "pubg-uc-blog",
+  "version": "1.0.0",
+  "description": "PUBG UC攻略 - 游戏充值与攻略博客",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site, no build needed'",
+    "deploy": "vercel --prod",
+    "generate": "python3 scripts/generate_article.py",
+    "report": "python3 scripts/daily_report.py"
+  },
+  "keywords": ["pubg", "uc", "blog", "game"],
+  "author": "PUBG UC攻略",
+  "license": "MIT"
+}
