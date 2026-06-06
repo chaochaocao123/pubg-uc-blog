@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": 18,
+      "title": "PUBG 06月06日版本平衡调整解析",
+      "excerpt": "深入分析最新版本的游戏平衡调整内容，包括武器属性变化、地图更新等，助你第一时间掌握版本动态。",
+      "url": "articles/pubg-news-2026-06-06-2.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-06",
+      "views": 0,
+      "keywords": "PUBG版本更新, 武器平衡, 游戏调整, 版本解析"
+    },
+    {
+      "id": 17,
+      "title": "06月06日UC充值避坑指南",
+      "excerpt": "盘点UC充值过程中常见的陷阱和误区，教你如何安全充值UC，避免上当受骗。",
+      "url": "articles/uc-recharge-2026-06-06-1.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-06",
+      "views": 0,
+      "keywords": "UC充值避坑, PUBG充值安全, UC充值教程, 防骗指南"
+    },
+    {
       "id": 16,
       "title": "PUBG UC充值06月06日问答汇总",
       "excerpt": "汇总玩家最关心的UC充值问题，包括充值安全、到账时间、优惠活动等详细内容，助你安心充值。",
