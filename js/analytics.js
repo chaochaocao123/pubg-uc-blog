@@ -38,6 +38,13 @@ function getSessionId() {
 
 // 追踪页面访问
 async function trackPageView(page, pageTitle) {
+  // 发送到GA4（自动通过config的page_view事件）
+  sendGA4Event('page_view', {
+    page_path: page,
+    page_title: pageTitle || document.title,
+    page_location: window.location.href
+  });
+
   const data = {
     page: page,
     pageTitle: pageTitle || document.title,
@@ -46,12 +53,21 @@ async function trackPageView(page, pageTitle) {
     referrer: document.referrer || 'direct',
     type: 'pv'
   };
-  
+
   await sendTrackingData(data);
 }
 
 // 追踪充值链接点击
 async function trackBuyClick(position, linkText) {
+  // 发送到GA4
+  sendGA4Event('recharge_click', {
+    link_position: position || 'unknown',
+    link_text: linkText || 'UC充值',
+    link_url: RECHARGE_URL,
+    page_path: window.location.pathname,
+    page_title: document.title
+  });
+
   const data = {
     page: window.location.pathname,
     pageTitle: document.title,
@@ -62,12 +78,19 @@ async function trackBuyClick(position, linkText) {
     linkText: linkText || 'UC充值',
     linkPosition: position || 'unknown'
   };
-  
+
   await sendTrackingData(data);
 }
 
 // 追踪阅读时长
 async function trackReadTime(duration) {
+  // 发送到GA4
+  sendGA4Event('read_time', {
+    duration_seconds: duration,
+    page_path: window.location.pathname,
+    page_title: document.title
+  });
+
   const data = {
     page: window.location.pathname,
     pageTitle: document.title,
@@ -76,14 +99,14 @@ async function trackReadTime(duration) {
     type: 'read_time',
     duration: duration
   };
-  
+
   await sendTrackingData(data);
 }
 
 // 发送追踪数据
 async function sendTrackingData(data) {
   try {
-    // 使用图片请求方式，避免CORS问题
+    // 发送到自建API（保留兼容）
     const params = new URLSearchParams(data);
     await fetch('/api/track', {
       method: 'POST',
@@ -92,7 +115,13 @@ async function sendTrackingData(data) {
     });
   } catch (error) {
     // 静默失败，不影响用户体验
-    console.log('Tracking data sent (fallback mode)');
+  }
+}
+
+// 发送到 Google Analytics 4
+function sendGA4Event(eventName, params) {
+  if (typeof gtag === 'function') {
+    gtag('event', eventName, params);
   }
 }
 
