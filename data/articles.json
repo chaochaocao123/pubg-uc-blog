@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": 20,
+      "title": "PUBG 06月07日新皮肤预告抢先看",
+      "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
+      "url": "articles/pubg-news-2026-06-07-2.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-07",
+      "views": 0,
+      "keywords": "PUBG皮肤, 新皮肤预告, 游戏资讯"
+    },
+    {
+      "id": 19,
+      "title": "PUBG UC充值06月07日问答汇总",
+      "excerpt": "汇总玩家最关心的UC充值问题，包括充值安全、到账时间、优惠活动等详细内容，助你安心充值。",
+      "url": "articles/uc-recharge-2026-06-07-1.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-07",
+      "views": 0,
+      "keywords": "UC充值问答, PUBG充值FAQ, UC充值安全, PUBG充值问题"
+    },
+    {
       "id": 18,
       "title": "PUBG 06月06日版本平衡调整解析",
       "excerpt": "深入分析最新版本的游戏平衡调整内容，包括武器属性变化、地图更新等，助你第一时间掌握版本动态。",
@@ -199,5 +221,5 @@
       "keywords": "UC充值活动, 618优惠, PUBG充值活动"
     }
   ],
-  "lastUpdated": "2026-06-06"
+  "lastUpdated": "2026-06-07"
 }
