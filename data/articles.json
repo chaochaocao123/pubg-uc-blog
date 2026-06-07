@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": 22,
+      "title": "PUBG 06月07日限时活动参与指南",
+      "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
+      "url": "articles/pubg-events-2026-06-07-2.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-07",
+      "views": 0,
+      "keywords": "PUBG活动, 限时活动, 活动攻略, 活动奖励"
+    },
+    {
+      "id": 21,
+      "title": "06月07日PUBG听声辨位技巧教学",
+      "excerpt": "深入讲解PUBG中的听声辨位技巧，如何利用脚步声和枪声判断敌人位置，是成为高手的必修课。",
+      "url": "articles/pubg-tips-2026-06-07-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-07",
+      "views": 0,
+      "keywords": "PUBG听声辨位, 吃鸡技巧, 脚步声, 听声辩位"
+    },
+    {
       "id": 20,
       "title": "PUBG 06月07日新皮肤预告抢先看",
       "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
