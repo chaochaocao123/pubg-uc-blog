@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": 30,
+      "title": "PUBG 06月09日限时活动参与指南",
+      "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
+      "url": "articles/pubg-events-2026-06-09-2.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-09",
+      "views": 0,
+      "keywords": "PUBG活动, 限时活动, 活动攻略, 活动奖励"
+    },
+    {
+      "id": 29,
+      "title": "PUBG 06月09日压枪技巧详解",
+      "excerpt": "从基础到进阶，全面解析PUBG压枪技巧，包括陀螺仪压枪、灵敏度设置等实用内容。",
+      "url": "articles/pubg-tips-2026-06-09-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-09",
+      "views": 0,
+      "keywords": "PUBG压枪, 吃鸡技巧, 压枪教学, 陀螺仪"
+    },
+    {
+      "id": 28,
+      "title": "PUBG 06月09日新皮肤预告抢先看",
+      "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
+      "url": "articles/pubg-news-2026-06-09-2.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-09",
+      "views": 0,
+      "keywords": "PUBG皮肤, 新皮肤预告, 游戏资讯"
+    },
+    {
+      "id": 27,
+      "title": "PUBG 06月09日节日活动汇总",
+      "excerpt": "汇总近期各类节日活动内容，包括活动入口、奖励一览、参与方式等，让你不错过任何精彩活动。",
+      "url": "articles/pubg-events-2026-06-09-1.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-09",
+      "views": 0,
+      "keywords": "PUBG节日活动, 活动汇总, 游戏活动"
+    },
+    {
+      "id": 26,
+      "title": "PUBG 06月08日枪械配件搭配指南",
+      "excerpt": "详细讲解各种枪械的最佳配件搭配方案，助你找到最适合自己的武器配置，大幅提升战斗力。",
+      "url": "articles/pubg-tips-2026-06-08-2.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-08",
+      "views": 0,
+      "keywords": "PUBG配件, 枪械改装, 武器配件, 吃鸡攻略"
+    },
+    {
+      "id": 25,
+      "title": "06月08日PUBG职业赛事战报速递",
+      "excerpt": "汇总近期PUBG职业赛事的精彩战况，包括各战队表现、比赛亮点、积分排名等精彩内容。",
+      "url": "articles/pubg-news-2026-06-08-1.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-08",
+      "views": 0,
+      "keywords": "PUBG赛事, 职业比赛, 战报, 电竞"
+    },
+    {
+      "id": 24,
+      "title": "PUBG 06月08日限时活动参与指南",
+      "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
+      "url": "articles/pubg-events-2026-06-08-2.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-08",
+      "views": 0,
+      "keywords": "PUBG活动, 限时活动, 活动攻略, 活动奖励"
+    },
+    {
+      "id": 23,
+      "title": "PUBG 06月08日版本平衡调整解析",
+      "excerpt": "深入分析最新版本的游戏平衡调整内容，包括武器属性变化、地图更新等，助你第一时间掌握版本动态。",
+      "url": "articles/pubg-news-2026-06-08-1.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-08",
+      "views": 0,
+      "keywords": "PUBG版本更新, 武器平衡, 游戏调整, 版本解析"
+    },
+    {
       "id": 22,
       "title": "PUBG 06月07日限时活动参与指南",
       "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
@@ -243,5 +331,5 @@
       "keywords": "UC充值活动, 618优惠, PUBG充值活动"
     }
   ],
-  "lastUpdated": "2026-06-07"
+  "lastUpdated": "2026-06-09"
 }
