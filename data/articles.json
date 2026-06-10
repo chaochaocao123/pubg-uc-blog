@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": 34,
+      "title": "06月10日PUBG听声辨位技巧教学",
+      "excerpt": "深入讲解PUBG中的听声辨位技巧，如何利用脚步声和枪声判断敌人位置，是成为高手的必修课。",
+      "url": "articles/pubg-tips-2026-06-10-2.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-10",
+      "views": 0,
+      "keywords": "PUBG听声辨位, 吃鸡技巧, 脚步声, 听声辩位"
+    },
+    {
+      "id": 33,
+      "title": "PUBG 06月10日卡点技巧与点位推荐",
+      "excerpt": "分享各个地图的卡点技巧和优势点位，教你如何在战斗中占据有利地形，提高生存率。",
+      "url": "articles/pubg-tips-2026-06-10-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-10",
+      "views": 0,
+      "keywords": "PUBG卡点, 吃鸡点位, 地图攻略, 卡点技巧"
+    },
+    {
+      "id": 32,
+      "title": "新手必看：PUBG UC充值全攻略",
+      "excerpt": "专为PUBG新手玩家准备的UC充值教程，从注册到充值，每一步都有详细讲解。",
+      "url": "articles/uc-recharge-2026-06-10-2.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-10",
+      "views": 0,
+      "keywords": "PUBG新手充值, UC充值教程, PUBG入门"
+    },
+    {
+      "id": 31,
+      "title": "PUBG UC充值06月10日问答汇总",
+      "excerpt": "汇总玩家最关心的UC充值问题，包括充值安全、到账时间、优惠活动等详细内容，助你安心充值。",
+      "url": "articles/uc-recharge-2026-06-10-1.html",
+      "category": "recharge",
+      "icon": "💰",
+      "date": "2026-06-10",
+      "views": 0,
+      "keywords": "UC充值问答, PUBG充值FAQ, UC充值安全, PUBG充值问题"
+    },
+    {
       "id": 30,
       "title": "PUBG 06月09日限时活动参与指南",
       "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
@@ -331,5 +375,5 @@
       "keywords": "UC充值活动, 618优惠, PUBG充值活动"
     }
   ],
-  "lastUpdated": "2026-06-09"
+  "lastUpdated": "2026-06-10"
 }
