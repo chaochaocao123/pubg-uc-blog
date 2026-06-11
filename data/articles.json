@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": 38,
+      "title": "PUBG 06月11日限时活动参与指南",
+      "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
+      "url": "articles/pubg-events-2026-06-11-2.html",
+      "category": "events",
+      "icon": "🎁",
+      "date": "2026-06-11",
+      "views": 0,
+      "keywords": "PUBG活动, 限时活动, 活动攻略, 活动奖励"
+    },
+    {
+      "id": 37,
+      "title": "06月11日PUBG职业赛事战报速递",
+      "excerpt": "汇总近期PUBG职业赛事的精彩战况，包括各战队表现、比赛亮点、积分排名等精彩内容。",
+      "url": "articles/pubg-news-2026-06-11-1.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-11",
+      "views": 0,
+      "keywords": "PUBG赛事, 职业比赛, 战报, 电竞"
+    },
+    {
       "id": 34,
       "title": "06月10日PUBG听声辨位技巧教学",
       "excerpt": "深入讲解PUBG中的听声辨位技巧，如何利用脚步声和枪声判断敌人位置，是成为高手的必修课。",
@@ -375,5 +397,5 @@
       "keywords": "UC充值活动, 618优惠, PUBG充值活动"
     }
   ],
-  "lastUpdated": "2026-06-10"
+  "lastUpdated": "2026-06-11"
 }
