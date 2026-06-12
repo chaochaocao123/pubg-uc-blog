@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": 40,
+      "title": "PUBG 06月12日新皮肤预告抢先看",
+      "excerpt": "提前曝光即将上线的新皮肤，包括设计理念、上线时间、价格信息等，皮肤党必看！",
+      "url": "articles/pubg-news-2026-06-12-2.html",
+      "category": "news",
+      "icon": "📰",
+      "date": "2026-06-12",
+      "views": 0,
+      "keywords": "PUBG皮肤, 新皮肤预告, 游戏资讯"
+    },
+    {
+      "id": 39,
+      "title": "PUBG 06月12日枪械配件搭配指南",
+      "excerpt": "详细讲解各种枪械的最佳配件搭配方案，助你找到最适合自己的武器配置，大幅提升战斗力。",
+      "url": "articles/pubg-tips-2026-06-12-1.html",
+      "category": "tips",
+      "icon": "🎯",
+      "date": "2026-06-12",
+      "views": 0,
+      "keywords": "PUBG配件, 枪械改装, 武器配件, 吃鸡攻略"
+    },
+    {
       "id": 38,
       "title": "PUBG 06月11日限时活动参与指南",
       "excerpt": "详细介绍当前限时活动的参与方式、任务要求和奖励内容，助你轻松完成活动任务，拿满奖励。",
@@ -397,5 +419,5 @@
       "keywords": "UC充值活动, 618优惠, PUBG充值活动"
     }
   ],
-  "lastUpdated": "2026-06-11"
+  "lastUpdated": "2026-06-12"
 }
